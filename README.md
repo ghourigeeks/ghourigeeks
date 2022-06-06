@@ -7,7 +7,7 @@
 ### Github Stats
 ------------------
 
-[![Salman. Ghouri GitHub Stats](https://github-readme-stats.vercel.app/api?username=ghourigeeks&show_icons=true&count_private=true)](https://github.com/ghourigeeks)
+[![Basim. Ghouri GitHub Stats](https://github-readme-stats.vercel.app/api?username=ghourigeeks&show_icons=true&count_private=true)](https://github.com/ghourigeeks)
 
 ----------------------------------------------------------------------------------------------------------
 ### My Web 🛠️
