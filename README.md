@@ -9,15 +9,23 @@
 ---------------------------
 1-Medium : https://medium.com/@basimghouri
 
-2-Transparent LOGIN: https://transparentloginpage.web.app/
+2-Dev.to : https://dev.to/basimghouri
 
-3-Magic Notepad APP: https://salmanghouri.github.io/MagicNotes/
+3-Twitter : https://twitter.com/basimghouri
 
-4-Book Library APP: https://salmanghouri.github.io/Ghouri-Library/
+4-Stackoverflow : https://stackoverflow.com/users/17788337/basim-ghouri
 
-5-React Super chatApp: https://flexers-e8167.web.app/
+5-Instagram : https://instagram.com/basimghouri.dev
 
-6-VOICETOTEXT APP :https://voicetotexts.web.app/
+6-Facebook : https://facebook.com/basimghouri7
+
+7-Youtube : https://www.youtube.com/channel/UCxEklSsD-fKX24ZhXRSg12A
+
+8-Hashnode : https://hashnode.com/@basimghouri
+
+9-About.me : https://about.me/basimghouri
+
+10-Gitlab : https://gitlab.com/basimghouri
 
 -----------------------------------------------------------------------------------------------------------
 
