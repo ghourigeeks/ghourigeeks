@@ -10,10 +10,10 @@
 [![Salman. Ghouri GitHub Stats](https://github-readme-stats.vercel.app/api?username=ghourigeeks&show_icons=true&count_private=true)](https://github.com/ghourigeeks)
 
 ----------------------------------------------------------------------------------------------------------
-### My Tools Web 🛠️
+### My Web 🛠️
 ----
 
-Link: http://basimghouri.rf.gd/
+Link: [http://basimghouri.rf.gd/](http://basimghouri.rf.gd/?i=1)
 -------
 ### Programming Languages 🌐
 ------------
@@ -27,7 +27,7 @@ Link: http://basimghouri.rf.gd/
 
 
 <p align="center">
-<a href="http://salmanghouri.blogspot.com/" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-http://salmanghouri.blogspot.com-blue?style=flat&logo=google-chrome"></a>
+<a href="http://basimghouri.rf.gd/?i=1" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-http://basimghouri.rf.gd-blue?style=flat&logo=google-chrome"></a>
 <a href="https://www.linkedin.com/in/basimghouri/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@BasimGhouri-blue?style=flat&logo=linkedin"></a>
 <a href="https://stackoverflow.com/users/17788337/basim-ghouri" target="_blank"><img alt="Stack Overflow" src="https://img.shields.io/badge/Stackoverflow-Basim%20Ghouri-blue?style=flat&logo=stackoverflow"></a>
 <a href="mailto:ghouri.geeks@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-ghouri.geeks@gmail.com-blue?style=flat&logo=gmail"></a>
