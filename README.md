@@ -28,9 +28,9 @@ Link: http://basimghouri.rf.gd/
 
 <p align="center">
 <a href="http://salmanghouri.blogspot.com/" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-http://salmanghouri.blogspot.com-blue?style=flat&logo=google-chrome"></a>
-<a href="https://www.linkedin.com/in/basimghouri/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@SalmanGhouri-blue?style=flat&logo=linkedin"></a>
-<a href="https://stackoverflow.com/users/17788337/basim-ghouri" target="_blank"><img alt="Stack Overflow" src="https://img.shields.io/badge/Stackoverflow-Salman%20Ghouri-blue?style=flat&logo=stackoverflow"></a>
-<a href="mailto:ghourigeeks@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-salmanghouribuss@gmail.com-blue?style=flat&logo=gmail"></a>
+<a href="https://www.linkedin.com/in/basimghouri/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@BasimGhouri-blue?style=flat&logo=linkedin"></a>
+<a href="https://stackoverflow.com/users/17788337/basim-ghouri" target="_blank"><img alt="Stack Overflow" src="https://img.shields.io/badge/Stackoverflow-Basim%20Ghouri-blue?style=flat&logo=stackoverflow"></a>
+<a href="mailto:ghouri.geeks@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-ghouri.geeks@gmail.com-blue?style=flat&logo=gmail"></a>
 </p>
 
 -----
