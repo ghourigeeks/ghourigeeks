@@ -2,6 +2,24 @@
 <h1 align="center"> باسم غوری 👋, I'm Basim Ghouri</h1>
 <h3 align="center">Hey, I am Full Stack Web Developer!</h3>
   <h4 align="center">(Laravel , Mongo(Angular) , Python , NodeJS)</h4>
+  
+  
+---------------------------------------------------------------------------------------------------------
+⚡MY All Links: 🌱
+---------------------------
+1-Medium : https://medium.com/@basimghouri
+
+2-Transparent LOGIN: https://transparentloginpage.web.app/
+
+3-Magic Notepad APP: https://salmanghouri.github.io/MagicNotes/
+
+4-Book Library APP: https://salmanghouri.github.io/Ghouri-Library/
+
+5-React Super chatApp: https://flexers-e8167.web.app/
+
+6-VOICETOTEXT APP :https://voicetotexts.web.app/
+
+-----------------------------------------------------------------------------------------------------------
 
 
 ### Github Stats
