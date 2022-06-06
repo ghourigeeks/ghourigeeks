@@ -4,26 +4,10 @@
   <h4 align="center">(Laravel , Mongo(Angular) , Python , NodeJS)</h4>
 
 
----------------------------------------------------------------------------------------------------------
-⚡MY JAVASCRIPT APPLICATIONS: 🌱
----------------------------
-1-TODO APP Link📝 : https://salmanghouri.github.io/TodoAppJavaScript/?#
-
-2-Transparent LOGIN: https://transparentloginpage.web.app/
-
-3-Magic Notepad APP: https://salmanghouri.github.io/MagicNotes/
-
-4-Book Library APP: https://salmanghouri.github.io/Ghouri-Library/
-
-5-React Super chatApp: https://flexers-e8167.web.app/
-
-6-VOICETOTEXT APP :https://voicetotexts.web.app/
-
------------------------------------------------------------------------------------------------------------
 ### Github Stats
 ------------------
 
-[![Salman. Ghouri GitHub Stats](https://github-readme-stats.vercel.app/api?username=Salmanghouri&show_icons=true&count_private=true)](https://github.com/Salmanghouri)
+[![Salman. Ghouri GitHub Stats](https://github-readme-stats.vercel.app/api?username=ghourigeeks&show_icons=true&count_private=true)](https://github.com/ghourigeeks)
 
 ----------------------------------------------------------------------------------------------------------
 ### My Tools Web 🛠️
