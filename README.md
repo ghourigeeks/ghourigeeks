@@ -29,7 +29,6 @@
 
 11-Postman : https://www.postman.com/basimghouri
 
-12-Reddit : https://www.reddit.com/user/basimghouri
 
 -----------------------------------------------------------------------------------------------------------
 
