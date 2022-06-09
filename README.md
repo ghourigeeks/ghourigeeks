@@ -36,11 +36,11 @@
 ### Github Stats
 ------------------
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ghourigeeks&" alt="ghourigeeks" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shameel123&show_icons=true&locale=en&layout=compact" alt="shameel123" />
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=ghourigeeks&show_icons=true&locale=en" alt="ghourigeeks" />
+&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shameel123&show_icons=true&locale=en" alt="shameel123" />
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ghourigeeks&" alt="ghourigeeks" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shameel123&" alt="shameel123" />
 
 ----------------------------------------------------------------------------------------------------------
 ### My Web 🛠️
