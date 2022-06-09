@@ -38,6 +38,10 @@
 
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ghourigeeks&" alt="ghourigeeks" />
 
+&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shameel123&show_icons=true&locale=en" alt="shameel123" />
+
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shameel123&" alt="shameel123" />
+
 ----------------------------------------------------------------------------------------------------------
 ### My Web 🛠️
 ----
