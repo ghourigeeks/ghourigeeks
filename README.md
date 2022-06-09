@@ -1,6 +1,6 @@
 
 <h1 align="center"> باسم غوری 👋, I'm Basim Ghouri</h1>
-<h3 align="center">Hey, I am Full Stack Web Developer!</h3>
+<h3 align="center">Hey, I am Web Developer</h3>
   <h4 align="center">(Laravel , Mongo(Angular) , Python , NodeJS)</h4>
   
   
