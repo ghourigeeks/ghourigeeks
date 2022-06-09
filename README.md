@@ -36,7 +36,7 @@
 ### Github Stats
 ------------------
 
-[![Basim. Ghouri GitHub Stats](https://github-readme-stats.vercel.app/api?username=ghourigeeks&show_icons=true&count_private=true)](https://github.com/ghourigeeks)
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ghourigeeks&" alt="ghourigeeks" />
 
 ----------------------------------------------------------------------------------------------------------
 ### My Web 🛠️
