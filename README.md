@@ -3,8 +3,8 @@
 
 
 
-- 🔭 I’m currently working on **React** related libraries and frameworks, more inclined towards **MERN** as well as **GraphQL**.
-- 🔭 I have been focusing on different paradigms of **Azure** and different **Office365** products.
+- 🔭 Currently, I am engaged in the development of React-based libraries and frameworks, with a strong emphasis on the MERN stack and GraphQL.
+- 🔭 My professional endeavors have been centered around exploring various paradigms within Azure and leveraging diverse Office365 products.
 - 📫 Reach me: **https://www.linkedin.com/in/basimghouri/**
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ghourigeeks&label=Profile%20views&color=0e75b6&style=flat" alt="ghourigeeks" /> </p>
