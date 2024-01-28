@@ -1,8 +1,6 @@
 <h1 align="center">Basim Ghouri</h1>
 <h3 align="center">Tech Enthusiast, eager to learn latest trends of digital world!</h3>
 
-
-
 - 🔭 Currently, I am engaged in the development of React-based libraries and frameworks, with a strong emphasis on the MERN stack and GraphQL.
 - 🔭 My professional endeavors have been centered around exploring various paradigms within Azure and leveraging diverse Office365 products.
 - 📫 Reach me: **https://www.linkedin.com/in/basimghouri/**
