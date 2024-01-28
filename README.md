@@ -7,8 +7,6 @@
 - 🔭 My professional endeavors have been centered around exploring various paradigms within Azure and leveraging diverse Office365 products.
 - 📫 Reach me: **https://www.linkedin.com/in/basimghouri/**
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ghourigeeks&label=Profile%20views&color=0e75b6&style=flat" alt="ghourigeeks" /> </p>
-
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 [https://dev.to/basimghouri](https://dev.to/basimghouri)
